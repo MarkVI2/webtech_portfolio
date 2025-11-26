@@ -10,12 +10,10 @@
   --secondary-color: #ffffff;
   --border-radius: 24px;
 
-  /* Fonts from WebTechDemo */
   --font-heading: "Syne", sans-serif;
   --font-body: "Inter", sans-serif;
   --font-mono: "JetBrains Mono", monospace;
 
-  /* WebTechDemo Variables */
   --glass-surface: rgba(255, 255, 255, 0.03);
   --glass-border: rgba(255, 255, 255, 0.1);
   --accent-neon: #7000ff;
